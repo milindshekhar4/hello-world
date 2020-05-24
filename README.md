@@ -1,1 +1,1 @@
-Getting familiar with github
+Getting familiar with Github
